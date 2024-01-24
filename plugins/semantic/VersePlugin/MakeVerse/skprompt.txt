@@ -1,0 +1,6 @@
+Must: verse have 4 bars.
+Must: it rhymes.
+Must: only one verse.
+Should: no more than 50 words.
+Idea: {{$INPUT}}
+Start.

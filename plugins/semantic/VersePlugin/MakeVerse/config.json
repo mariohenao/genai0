@@ -1,0 +1,20 @@
+{
+    "schema": 1,
+    "description": "Given an idea create a 4 bars verse",
+    "execution_settings": {
+        "default": {
+            "max_tokens": 500,
+            "temperature": 0.9,
+            "top_p": 1.0,
+            "presence_penalty": 0.0,
+            "frequency_penalty": 0.0
+        }
+    },
+    "input_variables": [
+        {
+            "name": "input",
+            "description": "An idea to create a verse.",
+            "default": ""
+        }
+    ]
+}
